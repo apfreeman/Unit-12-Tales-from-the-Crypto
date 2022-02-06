@@ -26,7 +26,7 @@ The descriptive statistics were used to answer the following questions:
 - **ANSWER: - The analysis demonstrates that Ethereum has the highest mean positive score.** 
 
 2. Which coin had the highest negative score?
-- **ANSWER: - The analysis demonstrates that Ethereum has the highest compound score.** 
+- **ANSWER: - The analysis demonstrates that Ethereum has the highest negative score.** 
 
 3. Which coin had the highest positive score?
 - **ANSWER: - The analysis demonstrates that Ethereum has the highest positive score.** 
