@@ -16,7 +16,6 @@ The following tasks will be completed:
 
 ---
 
-
 ### 1 - Sentiment Analysis
 
 The [newsapi](https://newsapi.org/) was used to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
@@ -78,17 +77,17 @@ In this section, I used NLTK and Python to tokenize text, find n-gram counts, an
 
 The following word clouds have been generated to summarize the news for each coin.
 
-![btc-word-cloud.png](Images/btc-word-cloud.png)
+![btc-word-cloud.png](https://github.com/apfreeman/Unit-12-Tales-from-the-Crypto/blob/main/Images/btc-word-cloud.png?raw=true)
 
-![eth-word-cloud.png](Images/eth-word-cloud.png)
+![eth-word-cloud.png](https://github.com/apfreeman/Unit-12-Tales-from-the-Crypto/blob/main/Images/eth-word-cloud.png?raw=true)
 
 
 ### 3 - Named Entity Recognition
 
 In this section, I have built a named entity recognition model for both coins and visualized the tags using SpaCy.
 
-![btc-ner.png](Images/btc-ner.png)
+![btc-ner.png](https://github.com/apfreeman/Unit-12-Tales-from-the-Crypto/blob/main/Images/btc-ner.png?raw=true)
 
-![eth-ner.png](Images/eth-ner.png)
+![eth-ner.png](https://github.com/apfreeman/Unit-12-Tales-from-the-Crypto/blob/main/Images/eth-ner.png?raw=true)
 
 
